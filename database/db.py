@@ -18,9 +18,9 @@ async_session_maker = None
 
 """
 async def init_db():
-    """
+    
     Инициализация базы данных и создание таблиц
-    """
+    
     global engine, async_session_maker
     
     config = load_config()
@@ -52,14 +52,14 @@ async def init_db():
     Инициализация базы данных и создание таблиц
     """
     global engine, async_session_maker
-    
+
     config = load_config()
     db_url = config.database.url
 
     # --- Автоисправление схемы подключения под asyncpg ---
     if db_url.startswith("postgresql://"):
         db_url = db_url.replace("postgresql://", "postgresql+asyncpg://", 1)
-    
+
     engine = create_async_engine(
         db_url,
         echo=config.app.debug,
@@ -67,17 +67,18 @@ async def init_db():
         pool_size=10,
         max_overflow=20
     )
-    
+
     async_session_maker = async_sessionmaker(
         engine,
         class_=AsyncSession,
         expire_on_commit=False
     )
-    
+
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
-    
+
     logger.info("База данных инициализирована")
+
 
 async def close_db():
     """
