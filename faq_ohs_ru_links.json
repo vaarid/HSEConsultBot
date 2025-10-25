@@ -1,0 +1,2252 @@
+[
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 1,
+    "question": "Что такое охрана труда?",
+    "short_answer": "Совокупность мер для сохранения жизни и здоровья работников в процессе труда.",
+    "legal_reference": "ТК РФ ст. 209",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 2,
+    "question": "Что такое система управления охраной труда (СУОТ)?",
+    "short_answer": "Часть общей системы управления, включающая процедуры, ответственность и ресурсы по ОТ.",
+    "legal_reference": "ТК РФ ст. 212.1; Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 3,
+    "question": "Кто отвечает за организацию охраны труда?",
+    "short_answer": "Работодатель несёт полную ответственность за состояние охраны труда.",
+    "legal_reference": "ТК РФ ст. 212",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 4,
+    "question": "Обязательно ли создавать службу охраны труда?",
+    "short_answer": "Да, при численности свыше 50 работников.",
+    "legal_reference": "ТК РФ ст. 217",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 5,
+    "question": "Можно ли возложить функции ОТ на стороннюю организацию?",
+    "short_answer": "Да, по договору при численности до 50 работников.",
+    "legal_reference": "ТК РФ ст. 217",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 6,
+    "question": "Что такое политика в области охраны труда?",
+    "short_answer": "Документ, определяющий цели, задачи и принципы работы по ОТ.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 7,
+    "question": "Какие документы входят в СУОТ?",
+    "short_answer": "Политика, положения, инструкции, приказы, планы, журналы, отчёты.",
+    "legal_reference": "Приказ Минтруда № 776н (прил.)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 8,
+    "question": "Какие органы контролируют охрану труда?",
+    "short_answer": "ГИТ, Роспотребнадзор, прокуратура и иные надзорные органы.",
+    "legal_reference": "ТК РФ; Федеральные законы № 426-ФЗ, № 52-ФЗ",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 9,
+    "question": "Что такое профессиональный риск?",
+    "short_answer": "Вероятность причинения вреда здоровью при выполнении трудовых обязанностей.",
+    "legal_reference": "ГОСТ Р 12.0.010-2009",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 10,
+    "question": "Как часто пересматриваются документы по ОТ?",
+    "short_answer": "Не реже 1 раза в 3 года или при изменениях условий труда.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 11,
+    "question": "Нужно ли утверждать Положение о СУОТ отдельным приказом?",
+    "short_answer": "Да, с закреплением ответственных и порядка актуализации.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 12,
+    "question": "Обязателен ли план мероприятий по ОТ?",
+    "short_answer": "Да, с указанием сроков, ответственных и ресурсов.",
+    "legal_reference": "ТК РФ ст. 212; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 13,
+    "question": "Что такое комиссия по охране труда?",
+    "short_answer": "Коллегиальный орган для участия работников в управлении ОТ.",
+    "legal_reference": "ТК РФ ст. 218",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 14,
+    "question": "Какие обязанности у работников в области ОТ?",
+    "short_answer": "Соблюдать требования, применять СИЗ, проходить обучение и медосмотры.",
+    "legal_reference": "ТК РФ ст. 214",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 15,
+    "question": "Как включить подрядчиков в систему ОТ?",
+    "short_answer": "Установить требования к ОТ в договорах и допускать по наряду/инструктажу.",
+    "legal_reference": "ТК РФ ст. 212; Гражданско-правовые договоры",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 16,
+    "question": "Как управлять изменениями (изменение процессов/оборудования)?",
+    "short_answer": "Проводить оценку рисков, обновлять инструкции и обучать персонал.",
+    "legal_reference": "Приказ № 776н; ГОСТ Р 12.0.010-2009",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 17,
+    "question": "Нужны ли внутренние аудиты СУОТ?",
+    "short_answer": "Да, периодически оценивать соответствие и результативность.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 18,
+    "question": "Как фиксировать выявленные несоответствия?",
+    "short_answer": "Через реестр несоответствий и план корректирующих мероприятий.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 19,
+    "question": "Допустима ли электронная форма журналов и актов?",
+    "short_answer": "Да, при обеспечении идентификации, неизменности и хранения.",
+    "legal_reference": "ТК РФ; 63-ФЗ об ЭП",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 20,
+    "question": "Что такое консультации и участие работников?",
+    "short_answer": "Механизмы информирования и участия персонала в вопросах ОТ.",
+    "legal_reference": "ТК РФ ст. 53, 218",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 21,
+    "question": "Как учитывать дистанционных работников?",
+    "short_answer": "Распространять ОТ по локальным актам, учитывать риски удалённой работы.",
+    "legal_reference": "ТК РФ гл. 49.1; ст. 214",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 22,
+    "question": "Нужны ли KPI и цели в СУОТ?",
+    "short_answer": "Да, для измерения результативности и постоянного улучшения.",
+    "legal_reference": "Приказ Минтруда № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_403335/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 23,
+    "question": "Как готовиться к проверке ГИТ?",
+    "short_answer": "Провести самооценку, актуализировать документы, обучить ответственных.",
+    "legal_reference": "КоАП РФ ст. 5.27.1; ТК РФ ст. 360",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34661/88755cc3b9fd053aebba33b58078eb459aa5a1d8/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 24,
+    "question": "Какая ответственность за нарушения ОТ?",
+    "short_answer": "Штрафы и приостановка деятельности для должностных и юр. лиц.",
+    "legal_reference": "КоАП РФ ст. 5.27.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34661/88755cc3b9fd053aebba33b58078eb459aa5a1d8/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 25,
+    "question": "Нужно ли учитывать профстандарты?",
+    "short_answer": "Да, при установлении требований к должностям и обучению.",
+    "legal_reference": "ФЗ № 238-ФЗ; Приказы Минтруда о профстандартах",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_200485/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 26,
+    "question": "Что такое опасные и вредные производственные факторы?",
+    "short_answer": "Факторы среды и трудового процесса, способные вызвать профзаболевание или травму.",
+    "legal_reference": "ТК РФ ст. 209; ГОСТ 12.0.003-2015",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 27,
+    "question": "Какие гарантии и компенсации за вредные условия труда?",
+    "short_answer": "Доплаты, сокращенный рабочий день, дополнительный отпуск, молоко.",
+    "legal_reference": "ТК РФ ст. 92, 117, 147; Приказ № 291н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 28,
+    "question": "Обязательна ли специальная оценка условий труда (СОУТ)?",
+    "short_answer": "Да, для всех рабочих мест, кроме дистанционных и надомных.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 3",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 29,
+    "question": "Как часто проводится плановая СОУТ?",
+    "short_answer": "Не реже одного раза в 5 лет.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 8",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 30,
+    "question": "Когда проводится внеплановая СОУТ?",
+    "short_answer": "При вводе новых рабочих мест, изменении технологии, НС, предписании ГИТ.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 17",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 31,
+    "question": "Кто проводит СОУТ?",
+    "short_answer": "Аккредитованная организация, включенная в реестр Минтруда.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 19, 20",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 32,
+    "question": "Можно ли оспорить результаты СОУТ?",
+    "short_answer": "Да, через государственную экспертизу условий труда или суд.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 26; ТК РФ ст. 216.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 33,
+    "question": "Где публикуются результаты СОУТ?",
+    "short_answer": "На официальном сайте работодателя (при наличии) и на ФГИС СОУТ.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 15",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 34,
+    "question": "Какие классы условий труда существуют?",
+    "short_answer": "Оптимальные (1), допустимые (2), вредные (3.1-3.4), опасные (4).",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 14",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 35,
+    "question": "Нужно ли знакомить работников с результатами СОУТ?",
+    "short_answer": "Да, под подпись в течение 30 дней со дня утверждения отчета.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 15",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 36,
+    "question": "Что такое оценка профессиональных рисков?",
+    "short_answer": "Процесс выявления опасностей и оценки уровня рисков на рабочих местах.",
+    "legal_reference": "ТК РФ ст. 218; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 37,
+    "question": "Обязательна ли оценка профессиональных рисков?",
+    "short_answer": "Да, работодатель обязан проводить систематическую оценку рисков.",
+    "legal_reference": "ТК РФ ст. 214.2; Приказ № 796н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 38,
+    "question": "Какие методы оценки рисков существуют?",
+    "short_answer": "Матричный, контрольных листов, HAZOP, дерева отказов и др.",
+    "legal_reference": "Приказ № 796н; ГОСТ Р 12.0.010-2009",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 39,
+    "question": "Кто проводит оценку профессиональных рисков?",
+    "short_answer": "Работодатель своими силами или с привлечением экспертных организаций.",
+    "legal_reference": "Приказ № 796н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 40,
+    "question": "Что такое микроповреждения (микротравмы)?",
+    "short_answer": "Ссадины, кровоподтеки, ушибы, не повлекшие расстройства здоровья или утраты трудоспособности.",
+    "legal_reference": "Приказ № 632н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 41,
+    "question": "Обязателен ли учет микроповреждений?",
+    "short_answer": "Да, работодатель обязан вести учет и рассмотрение обстоятельств.",
+    "legal_reference": "Приказ № 632н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 42,
+    "question": "Что такое производственный контроль?",
+    "short_answer": "Система мер по контролю за соблюдением санитарных норм и условий труда.",
+    "legal_reference": "ФЗ № 52-ФЗ; СанПиН",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_22481/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 43,
+    "question": "Нужна ли программа производственного контроля?",
+    "short_answer": "Да, для всех организаций, осуществляющих деятельность с вредными факторами.",
+    "legal_reference": "ФЗ № 52-ФЗ ст. 32",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_22481/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 44,
+    "question": "Кто имеет право на досрочную пенсию по вредности?",
+    "short_answer": "Работники, занятые на работах с вредными и тяжелыми условиями труда по спискам 1 и 2.",
+    "legal_reference": "ФЗ № 400-ФЗ ст. 30, 31",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156525/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 45,
+    "question": "Что такое уполномоченный по охране труда?",
+    "short_answer": "Представитель работников, избранный для содействия в работе по ОТ.",
+    "legal_reference": "ТК РФ ст. 370",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 46,
+    "question": "Можно ли привлекать работников к сверхурочной работе на вредных условиях?",
+    "short_answer": "Можно, но с ограничениями времени и только с письменного согласия работника.",
+    "legal_reference": "ТК РФ ст. 99",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 47,
+    "question": "Кто не допускается к работам с вредными условиями труда?",
+    "short_answer": "Беременные женщины, несовершеннолетние, лица по медпоказаниям.",
+    "legal_reference": "ТК РФ ст. 253, 265, 266",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 48,
+    "question": "Что такое декларирование соответствия условий труда?",
+    "short_answer": "Заявление работодателя о соответствии условий труда нормативным требованиям при классе 1-2.",
+    "legal_reference": "ФЗ № 426-ФЗ ст. 11",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 49,
+    "question": "Как финансируется охрана труда?",
+    "short_answer": "За счет работодателя, запрещено возлагать на работников расходы по ОТ.",
+    "legal_reference": "ТК РФ ст. 226",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "I. Общие положения по охране труда",
+    "order_in_block": 50,
+    "question": "Можно ли отстранить работника от работы за нарушение требований ОТ?",
+    "short_answer": "Да, работодатель обязан отстранить работника до устранения причин.",
+    "legal_reference": "ТК РФ ст. 76",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 1,
+    "question": "Какие виды инструктажей существуют?",
+    "short_answer": "Вводный, первичный, повторный, внеплановый, целевой.",
+    "legal_reference": "Постановление Минтруда № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 2,
+    "question": "Кто проводит вводный инструктаж?",
+    "short_answer": "Специалист по ОТ или назначенное приказом лицо.",
+    "legal_reference": "П. 2.1 Постановления № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 3,
+    "question": "Как часто проводится повторный инструктаж?",
+    "short_answer": "Не реже одного раза в 6 месяцев.",
+    "legal_reference": "П. 2.1.4 Постановления № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 4,
+    "question": "Кто освобождается от повторного инструктажа?",
+    "short_answer": "Работники, не связанные с эксплуатацией оборудования/производством.",
+    "legal_reference": "П. 2.1.5 Постановления № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 5,
+    "question": "Как фиксируются инструктажи?",
+    "short_answer": "В журнале с подписями инструктирующего и инструктируемого.",
+    "legal_reference": "Прил. 3 к Постановлению № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 6,
+    "question": "Кто должен проходить обучение по ОТ?",
+    "short_answer": "Все работники, включая руководителей и ИП.",
+    "legal_reference": "ТК РФ ст. 225",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 7,
+    "question": "Как часто проводится проверка знаний?",
+    "short_answer": "Обычно один раз в 3 года.",
+    "legal_reference": "П. 2.3 Постановления № 1/29",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 8,
+    "question": "Можно ли проводить обучение дистанционно?",
+    "short_answer": "Да, при идентификации личности и фиксации результатов.",
+    "legal_reference": "Письмо Минтруда № 15-1/ООГ-902",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 9,
+    "question": "Нужно ли обучать совместителей?",
+    "short_answer": "Да, наравне с основными работниками.",
+    "legal_reference": "ТК РФ ст. 225",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 10,
+    "question": "Можно ли обучаться в аккредитованном центре?",
+    "short_answer": "Да, при наличии аккредитации Минтруда.",
+    "legal_reference": "Приказ Минтруда № 771н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_402380/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 11,
+    "question": "Нужна ли стажировка на рабочем месте?",
+    "short_answer": "Да, для работников, занятых на работах с повышенной опасностью.",
+    "legal_reference": "Постановление № 1/29; ЛНА работодателя",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 12,
+    "question": "Сколько человек должно быть в комиссии по проверке знаний?",
+    "short_answer": "Не менее трёх, прошедших обучение по ОТ.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 13,
+    "question": "Какие документы выдаются по итогам обучения?",
+    "short_answer": "Протокол комиссии и удостоверение (при необходимости).",
+    "legal_reference": "Постановление № 1/29; Приказ № 771н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 14,
+    "question": "Когда проводят внеочередную проверку знаний?",
+    "short_answer": "При вводе новых НПА, оборудования, перерыве в работе и т.п.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 15,
+    "question": "Как оформляется программа инструктажа?",
+    "short_answer": "В виде утверждённой программы с перечнем тем и опасностей.",
+    "legal_reference": "Постановление № 1/29; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 16,
+    "question": "Можно ли хранить журналы в электронном виде?",
+    "short_answer": "Да, при обеспечении ЭП и неизменности записей.",
+    "legal_reference": "63-ФЗ об электронной подписи",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 17,
+    "question": "Нужен ли вводный инструктаж для удалённых работников?",
+    "short_answer": "Да, с фиксацией в журнале (в т.ч. электронном).",
+    "legal_reference": "ТК РФ ст. 214; Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 18,
+    "question": "Кто разрабатывает инструкции по ОТ?",
+    "short_answer": "Работодатель с учётом НПА, СУОТ и оценки рисков.",
+    "legal_reference": "ТК РФ ст. 212; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 19,
+    "question": "Как часто пересматривать инструкции по ОТ?",
+    "short_answer": "Рекомендуется не реже 3 лет или при изменениях.",
+    "legal_reference": "Методические рекомендации; ЛНА работодателя",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 20,
+    "question": "Нужен ли повторный инструктаж офисным работникам?",
+    "short_answer": "Да, если установлено ЛНА; часто 1 раз в 12 мес.",
+    "legal_reference": "Постановление № 1/29; ЛНА",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 21,
+    "question": "Как подтверждать личность при дистанционном обучении?",
+    "short_answer": "Через ЭП, прокторинг или ИС с идентификацией.",
+    "legal_reference": "63-ФЗ об ЭП; локальные регламенты",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 22,
+    "question": "Можно ли совмещать инструктаж и обучение?",
+    "short_answer": "Да, но фиксировать необходимо раздельно.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 23,
+    "question": "Кто обучает руководителя организации?",
+    "short_answer": "Аккредитованный центр или комиссия, где он прошёл обучение.",
+    "legal_reference": "Приказ № 771н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 24,
+    "question": "Срок действия удостоверения по ОТ?",
+    "short_answer": "До следующей проверки знаний (обычно 3 года).",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 25,
+    "question": "Нужно ли обучать работников по смежным профессиям?",
+    "short_answer": "Да, при допуске к работам повышенной опасности или новым задачам.",
+    "legal_reference": "ТК РФ ст. 225; Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 26,
+    "question": "Какой минимальный срок стажировки на рабочем месте?",
+    "short_answer": "От 2 до 14 смен, в зависимости от опасности работ.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 27,
+    "question": "Кто освобождается от первичного инструктажа на рабочем месте?",
+    "short_answer": "Работники, не связанные с обслуживанием, испытанием, наладкой и ремонтом оборудования.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 28,
+    "question": "Обязательно ли обучение по охране труда для руководителей?",
+    "short_answer": "Да, руководители обучаются в первоочередном порядке.",
+    "legal_reference": "ТК РФ ст. 225",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 29,
+    "question": "Можно ли провести обучение силами своей организации?",
+    "short_answer": "Да, при создании комиссии из обученных специалистов (не менее 3 человек).",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 30,
+    "question": "Нужно ли обучение по оказанию первой помощи?",
+    "short_answer": "Да, для работников, обязанных оказывать первую помощь пострадавшим.",
+    "legal_reference": "ТК РФ ст. 225; Постановление № 2464",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 31,
+    "question": "Как часто обучаться оказанию первой помощи?",
+    "short_answer": "Не реже одного раза в 3 года.",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 32,
+    "question": "Что такое целевой инструктаж?",
+    "short_answer": "Инструктаж при выполнении разовых работ, ликвидации аварий, работах по наряду-допуску.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 33,
+    "question": "Когда проводится внеплановый инструктаж?",
+    "short_answer": "При изменении технологии, НС, нарушениях требований ОТ, перерыве в работе.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 34,
+    "question": "Какой срок хранения протоколов проверки знаний?",
+    "short_answer": "Не менее 45 лет.",
+    "legal_reference": "Приказ № 558н (Перечень типовых управленческих документов)",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 35,
+    "question": "Можно ли не проводить инструктаж при приеме на работу?",
+    "short_answer": "Нет, вводный инструктаж обязателен для всех принимаемых на работу.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 36,
+    "question": "Нужен ли инструктаж для командированных работников?",
+    "short_answer": "Да, вводный и первичный на месте командировки.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 37,
+    "question": "Кто проводит первичный инструктаж?",
+    "short_answer": "Непосредственный руководитель работ, прошедший обучение и проверку знаний.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 38,
+    "question": "Обязательна ли стажировка для офисных работников?",
+    "short_answer": "Нет, если они не связаны с эксплуатацией оборудования.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 39,
+    "question": "Что такое программы обучения по охране труда?",
+    "short_answer": "Утвержденные работодателем документы, определяющие содержание и продолжительность обучения.",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 40,
+    "question": "Минимальная продолжительность обучения по охране труда?",
+    "short_answer": "Не менее 16 часов.",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 41,
+    "question": "Можно ли обучать работников на рабочем месте?",
+    "short_answer": "Да, при наличии утвержденных программ и назначенных ответственных.",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 42,
+    "question": "Что такое наряд-допуск на выполнение работ?",
+    "short_answer": "Задание на производство работ повышенной опасности с указанием мер безопасности.",
+    "legal_reference": "ГОСТ 12.0.004-2015; ЛНА работодателя",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 43,
+    "question": "Обязателен ли инструктаж при переводе на другую работу?",
+    "short_answer": "Да, первичный инструктаж на новом рабочем месте.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 44,
+    "question": "Какой перерыв в работе требует повторного обучения?",
+    "short_answer": "Более 1 года - для работ с повышенной опасностью, более 60 дней - для прочих.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 45,
+    "question": "Нужно ли обучение по использованию СИЗ?",
+    "short_answer": "Да, для СИЗ 2 класса (средства защиты от падения с высоты, СИЗОД).",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 46,
+    "question": "Кто утверждает программы инструктажей?",
+    "short_answer": "Работодатель с учетом специфики деятельности организации.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 47,
+    "question": "Можно ли совмещать разные виды обучения по ОТ?",
+    "short_answer": "Да, при соблюдении минимальной продолжительности каждой программы.",
+    "legal_reference": "Постановление № 2464",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 48,
+    "question": "Что делать, если работник не прошел проверку знаний?",
+    "short_answer": "Отстранить от работы и направить на повторное обучение в течение 30 дней.",
+    "legal_reference": "Постановление № 1/29; ТК РФ ст. 76",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 49,
+    "question": "Нужен ли вводный инструктаж для практикантов?",
+    "short_answer": "Да, для всех лиц, допущенных на территорию организации.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "II. Инструктажи и обучение",
+    "order_in_block": 50,
+    "question": "Можно ли проводить проверку знаний досрочно?",
+    "short_answer": "Да, по решению работодателя или по инициативе работника.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 1,
+    "question": "Кто обеспечивает работников СИЗ?",
+    "short_answer": "Работодатель, за свой счёт.",
+    "legal_reference": "ТК РФ ст. 221",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 2,
+    "question": "Как определяется перечень СИЗ?",
+    "short_answer": "По типовым нормам Минтруда и результатам СОУТ/оценки рисков.",
+    "legal_reference": "Приказ Минтруда № 997н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_175841/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 3,
+    "question": "Можно ли заменить один СИЗ другим?",
+    "short_answer": "Да, при равной или лучшей защитной эффективности.",
+    "legal_reference": "Приказ № 997н п. 13",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 4,
+    "question": "Как оформляется выдача СИЗ?",
+    "short_answer": "Через личную карточку учета СИЗ.",
+    "legal_reference": "Форма МБ-6 (или электронный аналог)",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 5,
+    "question": "Кто отвечает за хранение и уход за СИЗ?",
+    "short_answer": "Работодатель обязан организовать хранение и обслуживание.",
+    "legal_reference": "ТК РФ ст. 221",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 6,
+    "question": "Можно ли выдавать бывшие в употреблении СИЗ?",
+    "short_answer": "Да, после очистки/дезинфекции и проверки пригодности.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 7,
+    "question": "Кто контролирует наличие СИЗ на рабочих местах?",
+    "short_answer": "Специалист по ОТ и комиссия по ОТ.",
+    "legal_reference": "ТК РФ ст. 218",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 8,
+    "question": "Можно ли компенсировать СИЗ деньгами?",
+    "short_answer": "Как правило, нет; исключения — по согласованию и при эквивалентности.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 9,
+    "question": "Что делать, если работник потерял СИЗ?",
+    "short_answer": "При вине работника — возмещение ущерба; при износе — замена.",
+    "legal_reference": "ТК РФ ст. 238",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 10,
+    "question": "Кто утверждает нормы бесплатной выдачи СИЗ?",
+    "short_answer": "Минтруд России.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 11,
+    "question": "Нужна ли сертификация СИЗ?",
+    "short_answer": "Да, СИЗ должны соответствовать ТР ТС/ЕАЭС и иметь документы о соответствии.",
+    "legal_reference": "Технические регламенты ЕАЭС; 184-ФЗ",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 12,
+    "question": "Как устанавливать сроки носки СИЗ?",
+    "short_answer": "Согласно типовым нормам и эксплуатационной документации.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 13,
+    "question": "Можно ли использовать дежурные СИЗ?",
+    "short_answer": "Да, при невозможности персональной выдачи и учёте факта использования.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 14,
+    "question": "Как учитывать СИЗ в электронном виде?",
+    "short_answer": "Через ИС с идентификацией работника и неизменностью записей.",
+    "legal_reference": "63-ФЗ об ЭП; ЛНА",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 15,
+    "question": "Кто проводит обучение по применению СИЗ?",
+    "short_answer": "Работодатель в рамках инструктажей и целевого обучения.",
+    "legal_reference": "ТК РФ ст. 212; Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 16,
+    "question": "Как выбирать СИЗОД (респираторы/фильтры)?",
+    "short_answer": "По результатам оценки рисков/СОУТ и концентраций вредных веществ.",
+    "legal_reference": "ФЗ № 426-ФЗ (СОУТ); НД по СИЗОД",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 17,
+    "question": "Нужен ли учет смывающих и обезвреживающих средств?",
+    "short_answer": "Да, выдача фиксируется по нормам и ведомостям.",
+    "legal_reference": "Приказ Минтруда № 1122н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 18,
+    "question": "Как утилизировать СИЗ после использования?",
+    "short_answer": "По правилам обращения с отходами; опасные СИЗ — как опасные отходы.",
+    "legal_reference": "ФЗ № 89-ФЗ об отходах",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_19109/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 19,
+    "question": "Можно ли выдавать СИЗ при командировке?",
+    "short_answer": "Да, с учётом условий труда на месте командировки.",
+    "legal_reference": "ТК РФ ст. 221; ЛНА",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 20,
+    "question": "Нужна ли персонализация СИЗ?",
+    "short_answer": "Да, для правильной посадки и эффективности защиты.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 21,
+    "question": "Как контролировать сроки годности СИЗ?",
+    "short_answer": "Через реестр с датами выдачи и регламентом замены.",
+    "legal_reference": "Приказ № 997н; ЛНА",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 22,
+    "question": "Кто отвечает за стирку и ремонт спецодежды?",
+    "short_answer": "Работодатель организует стирку/сушку/ремонт за свой счёт.",
+    "legal_reference": "ТК РФ ст. 221",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 23,
+    "question": "Можно ли работнику купить СИЗ самостоятельно?",
+    "short_answer": "Возможно по согласованию с компенсацией при подтверждённых характеристиках.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 24,
+    "question": "Нужны ли зимние СИЗ при кратковременных работах на улице?",
+    "short_answer": "Да, исходя из фактических условий и рисков.",
+    "legal_reference": "Приказ № 997н; Оценка рисков",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 25,
+    "question": "Как учитывать выдачу СИЗ совместителям?",
+    "short_answer": "Отдельно по каждому месту работы с учётом норм.",
+    "legal_reference": "ТК РФ ст. 60.1; Приказ № 997н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 26,
+    "question": "Какие типы СИЗ существуют?",
+    "short_answer": "Спецодежда, спецобувь, средства защиты рук, головы, органов дыхания, слуха, зрения, падения с высоты.",
+    "legal_reference": "ТР ТС 019/2011",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 27,
+    "question": "Можно ли выдавать СИЗ более низкого класса защиты?",
+    "short_answer": "Нет, только аналогичные или с более высокими защитными свойствами.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 28,
+    "question": "Кто определяет нормы выдачи СИЗ?",
+    "short_answer": "Работодатель на основе типовых норм и результатов СОУТ.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 29,
+    "question": "Нужно ли обучение по применению СИЗ?",
+    "short_answer": "Да, особенно для СИЗ от падения с высоты и изолирующих СИЗОД.",
+    "legal_reference": "Постановление № 2464; Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 30,
+    "question": "Можно ли забирать СИЗ домой?",
+    "short_answer": "Можно, если это предусмотрено локальным актом работодателя.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 31,
+    "question": "Что делать с СИЗ при увольнении работника?",
+    "short_answer": "Работник возвращает СИЗ работодателю, о чем делается отметка в карточке.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 32,
+    "question": "Можно ли выдавать СИЗ без сертификата?",
+    "short_answer": "Нет, СИЗ должны иметь декларацию или сертификат соответствия ТР ТС.",
+    "legal_reference": "ТР ТС 019/2011",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 33,
+    "question": "Как часто менять спецодежду?",
+    "short_answer": "По установленным нормам или при потере защитных свойств досрочно.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 34,
+    "question": "Нужны ли СИЗ для офисных работников?",
+    "short_answer": "Только если это требуется по результатам оценки рисков (например, очки при работе с ПК).",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 35,
+    "question": "Что такое система ухода за СИЗ?",
+    "short_answer": "Комплекс мер по стирке, чистке, ремонту, дегазации, дезинфекции СИЗ.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 36,
+    "question": "Обязан ли работник использовать выданные СИЗ?",
+    "short_answer": "Да, это прямая обязанность работника по ТК РФ.",
+    "legal_reference": "ТК РФ ст. 214",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 37,
+    "question": "Можно ли выдавать одно СИЗ на несколько человек?",
+    "short_answer": "Да, дежурные СИЗ при кратковременных работах с учетом в журнале.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 38,
+    "question": "Кто проверяет исправность СИЗ?",
+    "short_answer": "Работник перед каждым применением, работодатель - периодически.",
+    "legal_reference": "ТК РФ ст. 214; Приказ № 997н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 39,
+    "question": "Что такое СИЗ 1 и 2 класса?",
+    "short_answer": "1 класс - простые СИЗ, 2 класс - сложные (от падения, изолирующие СИЗОД).",
+    "legal_reference": "ТР ТС 019/2011",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 40,
+    "question": "Обязательна ли маркировка СИЗ?",
+    "short_answer": "Да, на СИЗ должна быть маркировка с указанием класса защиты, срока годности.",
+    "legal_reference": "ТР ТС 019/2011",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 41,
+    "question": "Можно ли не выдавать СИЗ при улучшении условий труда?",
+    "short_answer": "Да, если по результатам СОУТ установлены допустимые условия труда (класс 1-2).",
+    "legal_reference": "Приказ № 997н; ФЗ № 426-ФЗ",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 42,
+    "question": "Что делать с просроченными СИЗ?",
+    "short_answer": "Утилизировать или списать, использовать запрещено.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 43,
+    "question": "Нужны ли СИЗ для работы на высоте?",
+    "short_answer": "Да, обязательны системы безопасности от падения с высоты.",
+    "legal_reference": "Приказ № 782н; Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 44,
+    "question": "Можно ли использовать свои СИЗ вместо выданных?",
+    "short_answer": "Только при согласовании с работодателем и соответствии требованиям.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 45,
+    "question": "Как выдавать СИЗ при вахтовом методе работы?",
+    "short_answer": "С учетом климатических условий места выполнения работ и увеличенного износа.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 46,
+    "question": "Что такое сигнальная спецодежда?",
+    "short_answer": "Одежда повышенной видимости со светоотражающими элементами.",
+    "legal_reference": "ГОСТ Р 12.4.219-99; Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 47,
+    "question": "Обязательно ли испытание СИЗ от падения?",
+    "short_answer": "Да, статические и динамические испытания перед первым применением и периодически.",
+    "legal_reference": "Приказ № 782н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 48,
+    "question": "Можно ли ремонтировать СИЗ?",
+    "short_answer": "Да, если ремонт не влияет на защитные свойства.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 49,
+    "question": "Кто оплачивает дерматологические средства?",
+    "short_answer": "Работодатель выдает смывающие и обезвреживающие средства бесплатно.",
+    "legal_reference": "Приказ № 1122н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "III. Средства индивидуальной защиты (СИЗ)",
+    "order_in_block": 50,
+    "question": "Как хранить СИЗ?",
+    "short_answer": "В специально оборудованных помещениях, обеспечивающих сохранность и защитные свойства.",
+    "legal_reference": "Приказ № 997н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 1,
+    "question": "Какие бывают виды медосмотров?",
+    "short_answer": "Предварительные, периодические и внеочередные.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 2,
+    "question": "Кто оплачивает медосмотр?",
+    "short_answer": "Работодатель.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 3,
+    "question": "Можно ли допустить к работе без медосмотра?",
+    "short_answer": "Нет, это нарушение с ответственностью.",
+    "legal_reference": "КоАП РФ ст. 5.27.1; ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34661/88755cc3b9fd053aebba33b58078eb459aa5a1d8/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 4,
+    "question": "Как часто проводить периодические медосмотры?",
+    "short_answer": "По перечням вредных факторов и работ (обычно раз в 1–2 года).",
+    "legal_reference": "Приказ Минздрава № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_375353/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 5,
+    "question": "Кто определяет необходимость внеочередного медосмотра?",
+    "short_answer": "Работодатель или врач при показаниях.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 6,
+    "question": "Можно ли совмещать медосмотр с иными обследованиями?",
+    "short_answer": "Да, при включении в программу.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 7,
+    "question": "Нужно ли проходить медосмотр ИП без работников?",
+    "short_answer": "Только при наличии вредных факторов/работ.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 8,
+    "question": "Что делать, если работник не прошёл медосмотр?",
+    "short_answer": "Отстранение от работы без сохранения зарплаты.",
+    "legal_reference": "ТК РФ ст. 76",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 9,
+    "question": "Кто хранит результаты медосмотров?",
+    "short_answer": "Работодатель и медорганизация по правилам меддокументации.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 10,
+    "question": "Можно ли проводить медосмотры дистанционно?",
+    "short_answer": "Нет, требуется личное обследование.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 11,
+    "question": "Как определить перечень контингентов на медосмотры?",
+    "short_answer": "На основе СОУТ/оценки рисков и Перечней к Приказу.",
+    "legal_reference": "ФЗ № 426-ФЗ; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_156555/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 12,
+    "question": "Кто формирует список работников на медосмотры?",
+    "short_answer": "Работодатель совместно с медорганизацией.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 13,
+    "question": "Как уведомлять работников о медосмотре?",
+    "short_answer": "Письменно/электронно с указанием даты и места.",
+    "legal_reference": "Приказ № 29н; ЛНА",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 14,
+    "question": "Нужны ли личные медицинские книжки?",
+    "short_answer": "Да, для отдельных видов деятельности (пищеблок, образование и др.).",
+    "legal_reference": "СанПиН/НПА Роспотребнадзора (актуальные)",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 15,
+    "question": "Кто определяет противопоказания к работе?",
+    "short_answer": "Врач по итогам обследования и профконсультации.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 16,
+    "question": "Как действовать при выявлении профрисков по здоровью?",
+    "short_answer": "Направить на внеочередной осмотр и скорректировать условия труда.",
+    "legal_reference": "ТК РФ ст. 212, 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 17,
+    "question": "Как учитывать неявку работника на медосмотр?",
+    "short_answer": "Актировать и отстранять до прохождения.",
+    "legal_reference": "ТК РФ ст. 76; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 18,
+    "question": "Можно ли объединять медосмотр с вакцинацией?",
+    "short_answer": "Да, по показаниям и с согласием работника.",
+    "legal_reference": "ФЗ № 157-ФЗ; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_20315/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 19,
+    "question": "Кто выбирает медорганизацию?",
+    "short_answer": "Работодатель заключает договор с лицензированной медорганизацией.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 20,
+    "question": "Как хранить медзаключения в ИС?",
+    "short_answer": "С соблюдением медтайны и защиты ПДн.",
+    "legal_reference": "ФЗ № 152-ФЗ; ФЗ № 323-ФЗ",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_61801/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 21,
+    "question": "Нужен ли предварительный осмотр при переводе на другую работу?",
+    "short_answer": "Да, если меняются условия труда/факторы.",
+    "legal_reference": "ТК РФ ст. 73, 213; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 22,
+    "question": "Как учитывать беременных и несовершеннолетних?",
+    "short_answer": "Особые ограничения и переводы на лёгкий труд.",
+    "legal_reference": "ТК РФ ст. 254, 265 и др.",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 23,
+    "question": "Можно ли учитывать результаты медосмотра из другой организации?",
+    "short_answer": "Нет, требуется обследование по договору с работодателем.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 24,
+    "question": "Кто оплачивает дорогу до медосмотра?",
+    "short_answer": "Работодатель по локальному порядку/договору.",
+    "legal_reference": "ТК РФ ст. 164; ЛНА",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 25,
+    "question": "Как оспорить заключение медкомиссии?",
+    "short_answer": "Через повторное обследование или в судебном порядке.",
+    "legal_reference": "ФЗ № 323-ФЗ; ГПК РФ",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_121895/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 26,
+    "question": "Кто проходит психиатрическое освидетельствование?",
+    "short_answer": "Работники, занятые на работах с источниками повышенной опасности по Перечню.",
+    "legal_reference": "Постановление Правительства № 377",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 27,
+    "question": "Как часто проходить психиатрическое освидетельствование?",
+    "short_answer": "Не реже одного раза в 5 лет.",
+    "legal_reference": "Постановление Правительства № 377",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 28,
+    "question": "Нужен ли медосмотр при работе с компьютером?",
+    "short_answer": "Да, если время работы более 50% рабочего времени.",
+    "legal_reference": "Приказ № 29н; СанПиН 1.2.3685-21",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_375353/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 29,
+    "question": "Можно ли не проходить медосмотр по религиозным убеждениям?",
+    "short_answer": "Нет, медосмотр обязателен, отказ - основание для отстранения от работы.",
+    "legal_reference": "ТК РФ ст. 76, 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 30,
+    "question": "Какие документы нужны для прохождения медосмотра?",
+    "short_answer": "Паспорт, направление от работодателя, СНИЛС, результаты предыдущих медосмотров.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 31,
+    "question": "Кто формирует поименный список на медосмотр?",
+    "short_answer": "Работодатель на основании контингентов и согласования с медорганизацией.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 32,
+    "question": "Сохраняется ли зарплата на время медосмотра?",
+    "short_answer": "Да, за работником сохраняется средний заработок.",
+    "legal_reference": "ТК РФ ст. 185",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 33,
+    "question": "Можно ли проходить медосмотр в другом городе?",
+    "short_answer": "Да, в любой лицензированной медорганизации по договору с работодателем.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 34,
+    "question": "Что такое предсменные медосмотры?",
+    "short_answer": "Осмотры перед каждой сменой для отдельных категорий работников (водители, машинисты).",
+    "legal_reference": "Приказ № 835н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 35,
+    "question": "Кто оплачивает медосмотр при трудоустройстве?",
+    "short_answer": "Работодатель, расходы не могут быть возложены на работника.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 36,
+    "question": "Обязательны ли медосмотры для беременных?",
+    "short_answer": "Да, при работе с вредными факторами и для перевода на легкий труд.",
+    "legal_reference": "ТК РФ ст. 254",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 37,
+    "question": "Что делать если выявлено профзаболевание?",
+    "short_answer": "Провести расследование, перевести на другую работу, направить на МСЭ.",
+    "legal_reference": "Постановление Правительства № 967",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 38,
+    "question": "Можно ли пройти медосмотр за свой счет?",
+    "short_answer": "Нет, обязательные медосмотры оплачивает только работодатель.",
+    "legal_reference": "ТК РФ ст. 213",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 39,
+    "question": "Какие врачи проводят предварительные медосмотры?",
+    "short_answer": "Терапевт, невролог, офтальмолог, оториноларинголог и др. по Перечню вредных факторов.",
+    "legal_reference": "Приказ № 29н (Приложение)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_375353/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 40,
+    "question": "Можно ли работать с просроченной медкнижкой?",
+    "short_answer": "Нет, работник должен быть отстранен от работы до прохождения медосмотра.",
+    "legal_reference": "ТК РФ ст. 76",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 41,
+    "question": "Что такое паспорт здоровья работника?",
+    "short_answer": "Документ с результатами всех медосмотров за весь период работы.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 42,
+    "question": "Нужен ли медосмотр для надомных работников?",
+    "short_answer": "Только если работа связана с вредными факторами или требует медкнижки.",
+    "legal_reference": "ТК РФ ст. 213; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 43,
+    "question": "Как часто флюорография при медосмотре?",
+    "short_answer": "Не реже 1 раза в год для работников определенных профессий.",
+    "legal_reference": "СанПиН по профилактике туберкулеза",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 44,
+    "question": "Можно ли отказаться от вакцинации при медосмотре?",
+    "short_answer": "Да, но для отдельных профессий это основание для отстранения от работы.",
+    "legal_reference": "ФЗ № 157-ФЗ; ТК РФ ст. 76",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_20315/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 45,
+    "question": "Сколько хранятся результаты медосмотров?",
+    "short_answer": "Не менее 50 лет в медорганизации, в архиве работодателя - по общим правилам.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 46,
+    "question": "Что такое центр профпатологии?",
+    "short_answer": "Специализированное медучреждение для диагностики и лечения профзаболеваний.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 47,
+    "question": "Обязателен ли нарколог и психиатр при медосмотре?",
+    "short_answer": "Да, для работников транспорта, высоты, источников повышенной опасности.",
+    "legal_reference": "Приказ № 29н (Приложение)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_375353/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 48,
+    "question": "Можно ли пройти медосмотр заранее?",
+    "short_answer": "Да, но не ранее чем за 2 месяца до установленного срока.",
+    "legal_reference": "Приказ № 29н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 49,
+    "question": "Что делать при выявлении противопоказаний к работе?",
+    "short_answer": "Перевести работника на другую работу или расторгнуть трудовой договор.",
+    "legal_reference": "ТК РФ ст. 73, 77",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "IV. Медосмотры",
+    "order_in_block": 50,
+    "question": "Нужен ли медосмотр при переводе на другую должность?",
+    "short_answer": "Да, если изменяются вредные факторы или добавляются новые работы.",
+    "legal_reference": "ТК РФ ст. 73, 213; Приказ № 29н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 1,
+    "question": "Что считается несчастным случаем на производстве?",
+    "short_answer": "Травма при исполнении трудовых обязанностей либо в связи с ними.",
+    "legal_reference": "ТК РФ ст. 227",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 2,
+    "question": "Кто проводит расследование?",
+    "short_answer": "Комиссия работодателя с участием специалиста по ОТ.",
+    "legal_reference": "ТК РФ ст. 229",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 3,
+    "question": "В какой срок проводится расследование?",
+    "short_answer": "Обычно 3 дня, при тяжёлых/смертельных — до 15.",
+    "legal_reference": "ТК РФ ст. 229.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 4,
+    "question": "Что оформляется по итогам расследования?",
+    "short_answer": "Акт по форме Н-1.",
+    "legal_reference": "Постановление Минтруда № 73 (утратило силу; см. Приказ Минтруда РФ № 223н, действующая форма Н‑1)",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 5,
+    "question": "Куда сообщать о несчастном случае?",
+    "short_answer": "В ГИТ, ФСС, при тяжёлых — в прокуратуру.",
+    "legal_reference": "ТК РФ ст. 228.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 6,
+    "question": "Что считается микротравмой?",
+    "short_answer": "Лёгкое повреждение без потери трудоспособности, подлежит учёту.",
+    "legal_reference": "Письмо Минтруда № 15-1/ООГ-2489",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 7,
+    "question": "Можно ли проводить расследование удалённо?",
+    "short_answer": "Да, при оформлении электронных документов надлежащим образом.",
+    "legal_reference": "Приказ Минтруда № 544н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 8,
+    "question": "Что делать при несогласии с актом Н-1?",
+    "short_answer": "Обращаться в ГИТ или суд.",
+    "legal_reference": "ТК РФ ст. 231",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 9,
+    "question": "Кто оплачивает больничный после НС?",
+    "short_answer": "Социальное страхование — 100% среднего заработка.",
+    "legal_reference": "ФЗ № 125-ФЗ ст. 9",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_19559/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 10,
+    "question": "Как хранить акты Н-1 и материалы расследования?",
+    "short_answer": "Не менее 45 лет.",
+    "legal_reference": "Постановление № 73 (утратило силу; см. Приказ Минтруда РФ № 223н, действующая форма Н‑1)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 11,
+    "question": "Что такое опасное событие/инцидент без последствий?",
+    "short_answer": "Событие без травм, но с потенциалом тяжёлых последствий (near miss).",
+    "legal_reference": "Приказ № 776н (риск-ориентированный подход)",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 12,
+    "question": "Как учитывать микротравмы?",
+    "short_answer": "В журнале микроповреждений с анализом причин и мерами.",
+    "legal_reference": "Письмо Минтруда № 15-1/ООГ-2489",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 13,
+    "question": "Когда проводится спецрасследование?",
+    "short_answer": "При групповых, тяжёлых и смертельных случаях.",
+    "legal_reference": "ТК РФ ст. 229.2",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 14,
+    "question": "Учитывается ли НС по пути на работу?",
+    "short_answer": "Как правило, не производственный (за исключениями).",
+    "legal_reference": "ТК РФ ст. 227; судебная практика",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 15,
+    "question": "Как фиксировать свидетельские показания?",
+    "short_answer": "Письменно с подписями, с приложением схем/фото/видео.",
+    "legal_reference": "Постановление № 73 (утратило силу; см. Приказ Минтруда РФ № 223н, действующая форма Н‑1)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 16,
+    "question": "Нужно ли сообщать родственникам пострадавшего?",
+    "short_answer": "Да, при тяжёлых/смертельных случаях — незамедлительно.",
+    "legal_reference": "ТК РФ ст. 228.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 17,
+    "question": "Как проводить анализ причин?",
+    "short_answer": "Использовать методы «5 почему», дерево причин, анализ рисков.",
+    "legal_reference": "Приказ № 776н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 18,
+    "question": "Нужны ли корректирующие меры после НС?",
+    "short_answer": "Обязательно разработать и проконтролировать исполнение.",
+    "legal_reference": "ТК РФ ст. 212; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 19,
+    "question": "Как учитывать НС у дистанционных работников?",
+    "short_answer": "По общим правилам с фиксацией связи с трудовыми обязанностями.",
+    "legal_reference": "ТК РФ ст. 312.1; ст. 227–231",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 20,
+    "question": "Кто выдает направление на МСЭ при утрате трудоспособности?",
+    "short_answer": "Медорганизация; оформляются страховые выплаты.",
+    "legal_reference": "ФЗ № 125-ФЗ; ФЗ № 323-ФЗ",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_19559/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 21,
+    "question": "Можно ли применять фото/видео как доказательства?",
+    "short_answer": "Да, как приложения к материалам расследования.",
+    "legal_reference": "Постановление № 73; ГПК/АПК РФ (утратило силу; см. Приказ Минтруда РФ № 223н, действующая форма Н‑1)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 22,
+    "question": "Как вести реестр травматизма?",
+    "short_answer": "Вести журнал/ИС с данными о НС, микротравмах, мерах.",
+    "legal_reference": "Приказ № 776н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 23,
+    "question": "Обязателен ли вводный инструктаж пострадавшему после восстановления?",
+    "short_answer": "Назначать внеплановый/повторный перед допуском к работе.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 24,
+    "question": "Влияет ли СОУТ на квалификацию НС?",
+    "short_answer": "СОУТ помогает установить причины и факторы, но квалификация — по ТК РФ.",
+    "legal_reference": "ФЗ № 426-ФЗ; ТК РФ ст. 227–231",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 25,
+    "question": "Кто подписывает акт Н-1?",
+    "short_answer": "Члены комиссии и работодатель; вручается пострадавшему.",
+    "legal_reference": "Постановление № 73 (утратило силу; см. Приказ Минтруда РФ № 223н, действующая форма Н‑1)",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 26,
+    "question": "В какой срок сообщать о групповом НС?",
+    "short_answer": "Немедленно в ГИТ, ФСС, прокуратуру, местную администрацию.",
+    "legal_reference": "ТК РФ ст. 228.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 27,
+    "question": "Что такое тяжелый несчастный случай?",
+    "short_answer": "Травма с тяжелыми последствиями: переломы крупных костей, потеря органов, коматозное состояние.",
+    "legal_reference": "Приказ Минздравсоцразвития № 160н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 28,
+    "question": "Кто входит в комиссию по расследованию НС?",
+    "short_answer": "Специалист по ОТ, представитель работодателя, представитель профсоюза.",
+    "legal_reference": "ТК РФ ст. 229",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 29,
+    "question": "Можно ли не расследовать НС если пострадавший не обратился?",
+    "short_answer": "Нет, работодатель обязан расследовать любой известный ему НС.",
+    "legal_reference": "ТК РФ ст. 228, 229",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 30,
+    "question": "Что делать если НС произошел у подрядчика на территории заказчика?",
+    "short_answer": "Расследует работодатель пострадавшего, заказчик обязан содействовать.",
+    "legal_reference": "ТК РФ ст. 229.2",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 31,
+    "question": "Сколько экземпляров акта Н-1 составляется?",
+    "short_answer": "Не менее 3: пострадавшему, работодателю, в ФСС.",
+    "legal_reference": "Приказ Минтруда № 223н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 32,
+    "question": "Что такое смертельный несчастный случай?",
+    "short_answer": "Случай, повлекший смерть работника на месте или позднее от полученных травм.",
+    "legal_reference": "ТК РФ ст. 227",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 33,
+    "question": "Можно ли изменять обстановку места НС?",
+    "short_answer": "Нельзя, кроме случаев угрозы жизни людей или развития аварии.",
+    "legal_reference": "ТК РФ ст. 229",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 34,
+    "question": "Кто расследует НС со смертельным исходом?",
+    "short_answer": "Государственная инспекция труда совместно с представителями работодателя, профсоюза.",
+    "legal_reference": "ТК РФ ст. 229.2",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 35,
+    "question": "Что такое легкий несчастный случай?",
+    "short_answer": "Временное нарушение здоровья продолжительностью не более 15 дней.",
+    "legal_reference": "Приказ № 160н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 36,
+    "question": "Нужно ли расследовать НС если работник скрыл травму?",
+    "short_answer": "Да, при поступлении информации о травме работодатель обязан расследовать.",
+    "legal_reference": "ТК РФ ст. 229.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 37,
+    "question": "Можно ли продлить срок расследования НС?",
+    "short_answer": "Да, по решению председателя комиссии, но не более чем на 15 дней.",
+    "legal_reference": "ТК РФ ст. 229.1",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 38,
+    "question": "Что делать если пострадавший в коме?",
+    "short_answer": "Расследовать как тяжелый НС, завершить после установления исхода.",
+    "legal_reference": "ТК РФ ст. 229.2",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 39,
+    "question": "Нужно ли сообщать в ФСС о микротравме?",
+    "short_answer": "Нет, микротравмы учитываются отдельно и не подлежат передаче в ФСС.",
+    "legal_reference": "Приказ № 632н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 40,
+    "question": "Кто определяет степень тяжести травмы?",
+    "short_answer": "Медицинская организация на основании медицинского заключения.",
+    "legal_reference": "Приказ № 160н",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 41,
+    "question": "Можно ли признать НС не связанным с производством?",
+    "short_answer": "Да, если травма получена в результате умысла, алкогольного опьянения, вне исполнения обязанностей.",
+    "legal_reference": "ТК РФ ст. 229.2",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 42,
+    "question": "Что такое хронические профзаболевания?",
+    "short_answer": "Заболевания, возникшие в результате длительного воздействия вредных факторов.",
+    "legal_reference": "Постановление Правительства № 967",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 43,
+    "question": "Как расследуется профзаболевание?",
+    "short_answer": "Работодатель создает комиссию в течение 10 дней после получения извещения.",
+    "legal_reference": "Постановление Правительства № 967",
+    "legal_url": "",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 44,
+    "question": "Нужно ли фотографировать место НС?",
+    "short_answer": "Рекомендуется для фиксации обстановки и включения в материалы расследования.",
+    "legal_reference": "ТК РФ ст. 229; Приказ № 223н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 45,
+    "question": "Можно ли допустить к работе после НС без инструктажа?",
+    "short_answer": "Нет, обязателен внеплановый инструктаж по результатам расследования.",
+    "legal_reference": "Постановление № 1/29",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_40987/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 46,
+    "question": "Что такое страховые выплаты по НС?",
+    "short_answer": "Единовременные и ежемесячные выплаты пострадавшему за счет ФСС.",
+    "legal_reference": "ФЗ № 125-ФЗ",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_19559/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 47,
+    "question": "Кто оплачивает лечение после НС на производстве?",
+    "short_answer": "ФСС в рамках обязательного социального страхования от НС.",
+    "legal_reference": "ФЗ № 125-ФЗ ст. 8",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_19559/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 48,
+    "question": "Можно ли уволить работника после НС?",
+    "short_answer": "Можно, но не за отсутствие на работе по причине НС.",
+    "legal_reference": "ТК РФ ст. 81",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 49,
+    "question": "Что делать если работник отказывается подписывать акт Н-1?",
+    "short_answer": "Составить акт об отказе, акт Н-1 считается утвержденным.",
+    "legal_reference": "Приказ № 223н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_418190/",
+    "current_as_of": "2025-10-17"
+  },
+  {
+    "block": "V. Несчастные случаи и расследование",
+    "order_in_block": 50,
+    "question": "Нужно ли разрабатывать мероприятия после НС?",
+    "short_answer": "Да, обязательно разработать и реализовать план мероприятий по предотвращению подобных случаев.",
+    "legal_reference": "ТК РФ ст. 212; Приказ № 776н",
+    "legal_url": "https://www.consultant.ru/document/cons_doc_LAW_34683/",
+    "current_as_of": "2025-10-17"
+  }
+]

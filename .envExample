@@ -1,0 +1,63 @@
+# 🤖 HSEConsultBot - Конфигурация
+
+# ===========================================
+# ОБЯЗАТЕЛЬНЫЕ ПЕРЕМЕННЫЕ
+# ===========================================
+
+# Telegram Bot Token (получить у @BotFather)
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# OpenAI API Key (получить на https://platform.openai.com/api-keys)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# ===========================================
+# ОПЦИОНАЛЬНЫЕ ПЕРЕМЕННЫЕ
+# ===========================================
+
+# GigaChat API Key (опционально, получить на https://developers.sber.ru/portal/products/gigachat)
+GIGACHAT_API_KEY=your_gigachat_api_key_here
+
+# AI Provider (openai или gigachat)
+AI_PROVIDER=openai
+
+# ===========================================
+# БАЗА ДАННЫХ
+# ===========================================
+
+# PostgreSQL настройки
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ot_bot_db
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=your_secure_password_here
+
+# Redis настройки
+REDIS_HOST=redis
+REDIS_PORT=6379
+
+# ===========================================
+# АДМИНИСТРИРОВАНИЕ
+# ===========================================
+
+# Секретный ключ для админ-панели (сгенерируйте случайную строку)
+ADMIN_SECRET_KEY=your_admin_secret_key_here
+
+# Порт админ-панели
+ADMIN_PORT=8000
+
+# ===========================================
+# ЛОГИРОВАНИЕ
+# ===========================================
+
+# Уровень логирования (DEBUG, INFO, WARNING, ERROR)
+LOG_LEVEL=INFO
+
+# ===========================================
+# ПРИМЕРЫ ЗНАЧЕНИЙ
+# ===========================================
+
+# TELEGRAM_BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz
+# OPENAI_API_KEY=sk-1234567890abcdefghijklmnopqrstuvwxyz
+# GIGACHAT_API_KEY=your_client_id:your_client_secret
+# POSTGRES_PASSWORD=MySecurePassword123!
+# ADMIN_SECRET_KEY=my-super-secret-admin-key-2024

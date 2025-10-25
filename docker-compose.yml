@@ -1,0 +1,108 @@
+version: '3.8'
+
+services:
+  # PostgreSQL База данных
+  postgres:
+    image: postgres:15-alpine
+    container_name: ot_bot_postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-ot_bot_db}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ot_bot_network
+
+  # Redis для кэширования и FSM storage
+  redis:
+    image: redis:7-alpine
+    container_name: ot_bot_redis
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ot_bot_network
+
+  # Telegram Bot
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ot_bot
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GIGACHAT_API_KEY=${GIGACHAT_API_KEY}
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB:-ot_bot_db}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - AI_PROVIDER=${AI_PROVIDER:-openai}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    volumes:
+      - ./logs:/app/logs
+      - ./knowledge_base:/app/knowledge_base
+    restart: unless-stopped
+    networks:
+      - ot_bot_network
+
+  # Админ-панель (FastAPI)
+  admin:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ot_bot_admin
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB:-ot_bot_db}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - ADMIN_SECRET_KEY=${ADMIN_SECRET_KEY}
+    command: python -m uvicorn admin.web_app:app --host 0.0.0.0 --port 8000
+    ports:
+      - "${ADMIN_PORT:-8000}:8000"
+    volumes:
+      - ./logs:/app/logs
+      - ./knowledge_base:/app/knowledge_base
+    restart: unless-stopped
+    networks:
+      - ot_bot_network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  ot_bot_network:
+    driver: bridge
+
