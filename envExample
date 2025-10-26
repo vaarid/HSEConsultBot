@@ -1,0 +1,46 @@
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# AI Providers Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+GIGACHAT_API_KEY=your_gigachat_api_key_here
+AI_PROVIDER=openai
+
+# Database Configuration (для внешней PostgreSQL)
+DATABASE_URL=postgresql://username:password@host:port/database_name
+POSTGRES_HOST=your_postgres_host
+POSTGRES_PORT=5432
+POSTGRES_DB=your_database_name
+POSTGRES_USER=your_username
+POSTGRES_PASSWORD=your_password
+
+# Redis Configuration (для внешнего Redis)
+REDIS_URL=redis://username:password@host:port/db
+REDIS_HOST=your_redis_host
+REDIS_PORT=6379
+REDIS_PASSWORD=your_redis_password
+REDIS_DB=0
+
+# Admin Panel Configuration
+ADMIN_SECRET_KEY=your_very_secure_secret_key_here
+ADMIN_USER_IDS=123456789,987654321
+ADMIN_PORT=8000
+
+# Security Configuration
+ENCRYPTION_KEY=your_32_character_encryption_key_here
+
+# Application Configuration
+DEBUG=false
+LOG_LEVEL=INFO
+AI_TIMEOUT=60
+MAX_HISTORY_LENGTH=10
+ENABLE_STATISTICS=true
+
+# OpenAI Model Configuration
+OPENAI_MODEL=gpt-4o-mini
+OPENAI_MAX_TOKENS=2000
+OPENAI_TEMPERATURE=0.7
+
+# GigaChat Configuration
+GIGACHAT_SCOPE=GIGACHAT_API_PERS
+GIGACHAT_MODEL=GigaChat

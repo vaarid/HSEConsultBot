@@ -49,6 +49,9 @@ class DatabaseConfig:
         """Формирование URL для подключения к БД"""
         env_url = os.getenv("DATABASE_URL")
         if env_url:  # приоритет переменной окружения
+            # Заменяем postgresql:// на postgresql+asyncpg:// для asyncpg
+            if env_url.startswith("postgresql://"):
+                env_url = env_url.replace("postgresql://", "postgresql+asyncpg://", 1)
             return env_url
         return f"postgresql+asyncpg://{self.user}:{self.password}@{self.host}:{self.port}/{self.database}"
 
@@ -64,6 +67,9 @@ class RedisConfig:
     @property
     def url(self) -> str:
         """Формирование URL для подключения к Redis"""
+        env_url = os.getenv("REDIS_URL")
+        if env_url:  # приоритет переменной окружения
+            return env_url
         if self.password:
             return f"redis://:{self.password}@{self.host}:{self.port}/{self.db}"
         return f"redis://{self.host}:{self.port}/{self.db}"

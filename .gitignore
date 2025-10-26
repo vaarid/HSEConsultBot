@@ -1,28 +1,8 @@
-# 🤖 HSEConsultBot - Git Ignore
-
-# ===========================================
-# ПЕРЕМЕННЫЕ ОКРУЖЕНИЯ
-# ===========================================
-
-# Файлы с секретными ключами
-.env
-.env.local
-.env.production
-.env.staging
-
-# ===========================================
-# PYTHON
-# ===========================================
-
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -36,301 +16,58 @@ parts/
 sdist/
 var/
 wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
 
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-Pipfile.lock
-
-# PEP 582
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.venv
-env/
+# Virtual environments
 venv/
+env/
 ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# ===========================================
-# ЛОГИ И ВРЕМЕННЫЕ ФАЙЛЫ
-# ===========================================
-
-# Логи бота
+# Logs
 logs/
 *.log
-*.log.*
 
-# Временные файлы
-*.tmp
-*.temp
-temp/
-tmp/
-
-# ===========================================
-# БАЗА ДАННЫХ
-# ===========================================
-
-# SQLite базы данных
+# Database
 *.db
-*.sqlite
 *.sqlite3
 
-# PostgreSQL дампы
-*.sql
-*.dump
-
-# ===========================================
-# DOCKER
-# ===========================================
-
-# Docker volumes
-postgres_data/
-redis_data/
-
-# Docker compose override
-docker-compose.override.yml
-
-# ===========================================
-# IDE И РЕДАКТОРЫ
-# ===========================================
-
-# VS Code
+# IDE
 .vscode/
-*.code-workspace
-
-# PyCharm
 .idea/
-*.iml
-*.ipr
-*.iws
-
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Vim
 *.swp
 *.swo
 *~
 
-# Emacs
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
-
-# ===========================================
-# ОПЕРАЦИОННЫЕ СИСТЕМЫ
-# ===========================================
-
-# Windows
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
-*.stackdump
-[Dd]esktop.ini
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-*.lnk
-
-# macOS
+# OS
 .DS_Store
-.AppleDouble
-.LSOverride
-Icon
+.DS_Store?
 ._*
-.DocumentRevisions-V100
-.fseventsd
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+ehthumbs.db
+Thumbs.db
 
-# Linux
-*~
-.fuse_hidden*
-.directory
-.Trash-*
-.nfs*
+# Project specific
+knowledge_base/
+*.csv
+*.json
+!requirements.txt
+!envExample
 
-# ===========================================
-# СЕКРЕТЫ И КЛЮЧИ
-# ===========================================
+# Docker
+.dockerignore
 
-# API ключи
-*.key
-*.pem
-*.p12
-*.pfx
-
-# Сертификаты
-*.crt
-*.cer
-*.der
-
-# ===========================================
-# АНАЛИТИКА И ОТЧЕТЫ
-# ===========================================
-
-# Экспортированные данные
-exports/
-reports/
-analytics/
-
-# ===========================================
-# РЕЗЕРВНЫЕ КОПИИ
-# ===========================================
-
-# Backup файлы
-*.bak
-*.backup
-*.old
-*.orig
-
-# ===========================================
-# СПЕЦИФИЧНЫЕ ДЛЯ ПРОЕКТА
-# ===========================================
-
-# База знаний (если содержит секретные данные)
-# knowledge_base/private/
-# knowledge_base/confidential/
-
-# Персональные данные в логах
-# logs/personal_data/
-
-# Конфигурационные файлы с секретами
-# config/secrets.py
-# config/production.py
-
-# ===========================================
-# ФАЙЛЫ АНАЛИЗА И ОПИСАНИЯ (НЕ ДЛЯ GITHUB)
-# ===========================================
-
-# Файлы анализа проекта
-PROJECT_ANALYSIS.md
-Описание.md
-
-# Файлы разработки и тестирования
-test_knowledge_base.py
-expand_faq.py
-json_to_csv.py
-
-# Расширенные версии файлов
-faq_ohs_ru_links_extended.json
-
-# Временные файлы проекта
-*.tmp
-*.temp
-temp/
-tmp/
-
-# ===========================================
-# ДОКУМЕНТАЦИЯ ДЛЯ РАЗРАБОТЧИКОВ (ОПЦИОНАЛЬНО)
-# ===========================================
-
-# Детальная документация (можно оставить для разработчиков)
-# PROJECT_OVERVIEW.md
-# IMPROVEMENTS_ROADMAP.md
-# PRIVACY_PROTECTION.md
-# KNOWLEDGE_BASE_INTEGRATION.md
+# Git
+.git/

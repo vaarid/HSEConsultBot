@@ -25,8 +25,18 @@ async def main():
     # Загрузка конфигурации
     config = load_config()
     
+    # Проверка обязательных переменных окружения
+    if not config.telegram.bot_token:
+        logger.error("TELEGRAM_BOT_TOKEN не установлен!")
+        return
+    
     # Инициализация базы данных
-    await init_db()
+    try:
+        await init_db()
+        logger.info("База данных подключена успешно")
+    except Exception as e:
+        logger.error(f"Ошибка подключения к базе данных: {e}")
+        return
     
     # Создание бота и диспетчера
     bot = Bot(token=config.telegram.bot_token)
@@ -53,6 +63,8 @@ async def main():
     logger.info("Бот запущен и готов к работе!")
     try:
         await dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types())
+    except Exception as e:
+        logger.error(f"Ошибка при запуске бота: {e}")
     finally:
         await bot.session.close()
 
