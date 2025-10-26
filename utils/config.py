@@ -38,10 +38,18 @@ class DatabaseConfig:
     database: str
     user: str
     password: str
-    
+    """
+    @property
+    def url(self) -> str:
+        Формирование URL для подключения к БД
+        return f"postgresql+asyncpg://{self.user}:{self.password}@{self.host}:{self.port}/{self.database}"
+    """
     @property
     def url(self) -> str:
         """Формирование URL для подключения к БД"""
+        env_url = os.getenv("DATABASE_URL")
+        if env_url:  # приоритет переменной окружения
+            return env_url
         return f"postgresql+asyncpg://{self.user}:{self.password}@{self.host}:{self.port}/{self.database}"
 
 
